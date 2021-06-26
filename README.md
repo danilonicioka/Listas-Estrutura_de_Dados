@@ -1,2 +1,2 @@
-# Listas-Estrutura_de_Dados
- Listas de exercícios e minhas resoluções - Eng Comp 2º Semestre UFPA
+# Listas_Estrutura-de-Dados
+Listas de exercícios de Estrutura de Dados e minhas resoluções
